@@ -1,5 +1,8 @@
 body { margin: 2em; min-width: 500px}
 
+.cv{
+  margin-top: 50px;
+}
 
 .left-text
 {
@@ -20,6 +23,22 @@ body { margin: 2em; min-width: 500px}
   border-style: solid;
   margin-top: 10px;
   margin-right: 10px;
+}
+
+.postImg
+{
+  border-width:2px;
+  border-style: solid;
+  border-color: black;
+  margin-top: 25px;
+}
+
+.projectImages{
+  text-align: center;
+}
+
+.projectIntro{
+  margin-bottom: 2em;
 }
 
 a { text-decoration: none; color: #999; }
