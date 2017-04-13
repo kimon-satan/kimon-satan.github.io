@@ -3,6 +3,7 @@ layout: project
 title: "Romeoke"
 thumbnail: "/images/thumbs/romeoke_thumb.png"
 published: "true"
+category: "game"
 ---
 <div class="projectIntro">
 Romeoke is a sound responsive game for two players combining avant-garde karaoke with retro arcade gameplay, and archery. Two knights battle it out to win the love of their sweet maiden by charming her with heart shaped balloons. These are created by singing sweet melodies to inflate and send them floating gently up to her balcony. Less gallant players might also shoot down their rival’s balloons by singing short notes with sharp attacks to fire arrows.

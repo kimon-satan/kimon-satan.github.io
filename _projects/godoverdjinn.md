@@ -3,6 +3,7 @@ layout: project
 title: "God Over Djinn"
 thumbnail: "/images/thumbs/god_thumb.jpg"
 published: "true"
+category: "performance"
 ---
 <div class="projectIntro">
 God Over Djinn is a piece for live animation and synthesised sound composition that draws on our intuitive understanding of the physical world, as well as playing with ambiguities between scale and perspective in two-dimensional representation to create seemingly infinitely nested worlgod of colliding objects.
