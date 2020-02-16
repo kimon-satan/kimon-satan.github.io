@@ -3,6 +3,7 @@ layout: project
 title: "Cube With Magic Ribbons"
 thumbnail: "/images/thumbs/cube_thumb.jpg"
 published: "true"
+year: 2012
 category: "performance"
 ---
 

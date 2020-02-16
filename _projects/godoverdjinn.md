@@ -3,6 +3,7 @@ layout: project
 title: "God Over Djinn"
 thumbnail: "/images/thumbs/god_thumb.jpg"
 published: "true"
+year: 2010
 category: "performance"
 ---
 <div class="projectIntro">

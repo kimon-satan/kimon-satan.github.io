@@ -3,6 +3,7 @@ layout: project
 title: "Dark Star"
 thumbnail: "/images/thumbs/darkStar_thumb.jpg"
 published: "true"
+year: 2011
 category: "game"
 ---
 

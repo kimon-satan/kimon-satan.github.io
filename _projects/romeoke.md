@@ -3,6 +3,7 @@ layout: project
 title: "Romeoke"
 thumbnail: "/images/thumbs/romeoke_thumb.png"
 published: "true"
+year: 2012
 category: "game"
 ---
 <div class="projectIntro">

@@ -3,6 +3,7 @@ layout: project
 title: "Conditional Love"
 thumbnail: "/images/thumbs/conditionallove_thumb.png"
 published: "true"
+year: 2016
 category: "performance"
 ---
 <div class="projectIntro">

@@ -3,6 +3,7 @@ layout: project
 title: "Where Am I ?"
 thumbnail: "/images/thumbs/whereami_thumb.png"
 published: "true"
+year: 2013
 category: "performance"
 
 ---

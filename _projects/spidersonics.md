@@ -3,6 +3,7 @@ layout: project
 title: "Spidersonics"
 thumbnail: "/images/thumbs/spidersonics_thumb.png"
 published: "true"
+year: 2014
 category: "education"
 ---
 

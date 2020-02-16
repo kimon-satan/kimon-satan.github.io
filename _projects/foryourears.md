@@ -3,6 +3,7 @@ layout: project
 title: "For Your Ears Only"
 thumbnail: "/images/thumbs/FYO_thumb.png"
 published: "true"
+year: 2009
 category: "game"
 ---
 <div class="projectIntro">

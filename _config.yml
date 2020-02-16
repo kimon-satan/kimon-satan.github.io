@@ -2,4 +2,5 @@ name: Simon Katan, Digital Artist
 markdown: kramdown
 collections:
   projects:
+    sort_by: year
     output: true
